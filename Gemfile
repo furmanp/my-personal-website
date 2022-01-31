@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-postfiles', '~> 3.1' 
   gem 'tzinfo'
   gem 'tzinfo-data'
-  gem 'wdm'
+  gem "wdm", "~> 0.1.0"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
