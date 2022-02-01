@@ -89,4 +89,4 @@ Apr 2016 - Sept 2016. Warsaw, Poland <br>
 Sept 2014 - Mar 2015. Warsaw, Poland <br>
 <br>
 
-<center><b><a href="https://www.github.com/furmanp/my-personal-website/assets/CV_PFU.pdf" rel="noopener">Donwload my CV here</a></b></center>
+<center><b><a href="assets/CV_PFU.pdf">Donwload my CV here</a></b></center>
