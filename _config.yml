@@ -80,7 +80,6 @@ exclude:
   - node_modules
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
-  - lighthouse.png
   - klise-*.gem
   - klise.gemspec
 
