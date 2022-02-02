@@ -3,7 +3,7 @@ layout: post
 title:  "why have a website if social media covers it all."
 date:   2022-01-01 00:00:00 +0000
 categories: general
-tag: website
+tag: 
 ---
 My goal for this website is to create a space that is leaning more towards my professional activity rather than personal.
 
