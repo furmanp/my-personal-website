@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "why you should code, regardless the background."
-date:   2022-01-01 00:00:00 +0000
+date:   2022-01-10 00:00:00 +0000
 categories: general
-tag: opinion
+tag: [visual basic]
 ---
 First and foremost, I am not a programmer, have never been, and am highly unlikely to become one. 
 I am a mechanical design engineer, and until some time ago I had not dealt with the coding too. <br>
