@@ -12,8 +12,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Przemyslaw Furman # author name
-  bio: >- # tell to the world
-    Mechanical engineer focused on composite materials, using programming to broaden his skills and increase day to day working efficiency. <br>
+  bio: Mechanical engineer focused on composite materials, using programming to broaden his skills and increase day to day working efficiency. <br>
     Check out my socials here <a href="https://github.com/furmanp" target="_blank" rel="noopener">@github</a> or <a href="https://www.linkedin.com/in/przemyslawfurman/" target="_blank" rel="noopener">@linkedin</a>.
   username: furmanp # general username
   github: furmanp # github username
@@ -23,7 +22,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: https://furmanp.netlify.app/
+url: https://furmanp.netlify.com/
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
