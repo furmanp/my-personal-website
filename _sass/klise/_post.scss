@@ -8,8 +8,8 @@
 
 // Post title
 .header {
-  margin-top: 7.8em;
-  margin-bottom: 3em;
+  margin-top: 5.8em;
+  margin-bottom: 2em;
 
   .tags {
     margin-left: 3px;
@@ -110,9 +110,9 @@
 
   > p {
     margin: 0;
-    padding-top: $spacing-full - 15;
-    padding-bottom: $spacing-full - 15;
-    text-align: justify;
+    padding-top: $spacing-full - 25;
+    padding-bottom: $spacing-full - 25;
+    text-align: left;
   }
 
   ul.task-list {
