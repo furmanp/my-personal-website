@@ -6,7 +6,7 @@ excerpt: Robotics graduate, currently focused in composites. Trying to improve e
 comments: false
 ---
 
-Originally from Warsaw/Poland, currently based in the Netherlands. Mechanical engineer with background of mechatronics/robotics, but became a composite materials enthusiast after Erasmus+ in Dresden/Germany.
+Originally from Warsaw/Poland, currently based in the Netherlands. Mechanical engineer with a background in mechatronics/robotics, but became a composite materials enthusiast after Erasmus+ in Dresden/Germany.
 Trying to improve my efficiency with code, and going to document some of it here.
 
 **✨ places to visit ✨**
