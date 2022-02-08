@@ -11,6 +11,7 @@ comments: false
 ### Pontis Engineering <a href="https://www.pontis-engineering.com/" target="_blank" rel="noopener">@website</a> <a href="https://www.linkedin.com/company/pontis-engineering/" target="_blank" rel="noopener">@LinkedIn</a><br>
 **Composite Design Engineer** <br>
 *Jan 2020 – present. Amsterdam, The Netherlands <br>*
+
 Employed for a position of composite design engineer, but nicely tuning in wherever needed. Most of my tasks involve development
 of early stage of the project including Finite Element Method analysis, CAD design both parts and tooling. Building prototypes 
 using traditional methods or 3D printing is possible. Running laboratory scale testing.
@@ -29,6 +30,7 @@ My main responsibilities are to create a tangible product or technology from cli
 ### New Era Materials <a href="https://neweramaterials.com/" target="_blank" rel="noopener">@website</a> <a href="https://www.linkedin.com/company/neweramaterials/" target="_blank" rel="noopener">@LinkedIn</a><br>
 **Composite R&D Engineer** <br>
 *Jan 2017 – Dec 2019. Cracow, Poland <br>*
+
 Product Development Engineer, responsible for providing manufacturing technology using unique in house developed products,
 solid-state composite pre-preg. Working closely with the chemical department to provide feedback on structural and engineering 
 standpoint on the product. Supporting customers on introducing novel technology in their facilities. Running optimization 
@@ -44,6 +46,7 @@ Taking part in an innovative project to deliver technology for embedding sensors
 ### Anpharm Pharmaceutical <a href="https://anpharm.pl/?language=en" target="_blank" rel="noopener">@website</a> <a href="https://www.linkedin.com/company/zak%C5%82ad-produkcyjny-firmy-servier-w-polsce-anpharm/" target="_blank" rel="noopener">@LinkedIn</a> 
 **Postgraduate intern** <br>
 *Jul 2016 – Sep 2016. Warsaw, Poland <br>*
+
 Design, manufacturing and programming of automatic diagnosis system for the pneumatic circuit of an electrostatic counting machine. <br>
 The scope of the project was to design a detection system of pneumatic pistons wear and tear, without the necessity of using a high-speed camera. 
 Degradation of pistons results in a wrong number of medications contained in a single package. 
@@ -58,6 +61,7 @@ The system reduced the machine downtime and significantly decreased the risk of 
 ### Warsaw University of Technology <br>
 **Faculty of Mechatronics, specialization in Robotics** <br>
 Sep 2014 – Feb 2017. Warsaw, Poland <br>
+
 **Masters Thesis:** *Design and development robotic module concept for automatic
 collection and distribution of standardized containers.*<br>
 Project realized with for an external company <a href="https://versabox.eu/" target="_blank" rel="noopener">@Versabox</a>
@@ -68,6 +72,7 @@ analysis with a consequences summary of investment in such a system.
 
 **Faculty of Mechatronics, specialization in Automation Control** <br>
 *Sep 2011 – Feb 2014. Warsaw, Poland <br>*
+
 **Engineering Thesis:** *Identification of mathematical model of an inverted pendulum.*<br>
 The study focused on the identification of a mathematical model of the inverted
 pendulum, based on the measurements taken on self-built laboratory test unit.
@@ -80,6 +85,7 @@ microcontroller, constructed especially for the project.
 ### Technical University Dresden <br>
 **Institute of Lightweight Engineering and Polymer Technology, Mechanical Engineering** <br>
 *Apr 2015 – Apr 2016. Dresden, Germany <br>*
+
 **Project:** *Design and development of High Voltage Transmission Lines inspection Robot.*
 The outlook of the project was to deliver a device that will improve currently existing methods of inspecting transmission lines. 
 Aside from being the founder of the project I was responsible for a conceptual solution, which was followed by detailed design, 
@@ -91,9 +97,10 @@ After the Student's Exchange programme ended, my work on the project continued d
 The project was finalized winning 1st prize in ENEA+ INNOVATION, a contest for the most innovative project that fits into 
 business strategy of energy providing company. The contest was of national rank.
 
-# additional activity
+# organizations
 ### WUT Solar Boat Team
 *Apr 2016 - Sept 2016. Warsaw, Poland <br>*
+
 The project focused on building a fully solar-powered 6-meter long boat that will take part in a boating race.
 Within the team of 10 people, we built a boat that qualified for worldwide championship, Solar1 Boat Challenge in Monaco.
 
@@ -103,10 +110,11 @@ total power output. In addition to that we developed a system of hydrofoils that
 
 ### Robomatic student's association
 *Sept 2014 - Mar 2015. Warsaw, Poland <br>*
+
 As a member of student's association while studying at Warsaw University of Technology, I co-organized nationwide tournament 
 of mobile robots, Robomaticon <a href="https://robomaticon.pl/en" target="_blank" rel="noopener">@website</a>. 
 The tournament gathered over 1000 participants from an entire country with several from across Europe. It attracted the attention of around 5000
 visitors and public media, taking place in the main hall of WUT. 
 <br>
 <br>
-<center><b><a href="https://github.com/furmanp/my-personal-website/raw/master/assets/CV_PFU.pdf">dowload my CV here</a></b></center>
+<center><b><a href="https://github.com/furmanp/my-personal-website/raw/master/assets/resume_furmanp.pdf">dowload my CV here</a></b></center>
