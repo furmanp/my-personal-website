@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/assets/img/readme_banner.png?raw=true">
+<img src="https://github.com/furmanp/my-personal-website/blob/master/assets/img/readme_banner.png?raw=true" witdh="850" height="220">
 </center>
 
 Decided to build my own website to have a semi-professional journal.
