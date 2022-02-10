@@ -1,6 +1,5 @@
-<center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/assets/img/readme_banner.png?raw=true" witdh="850" height="220">
-</center>
+<p align="center"><img src="https://github.com/furmanp/my-personal-website/blob/master/assets/img/readme_banner.png?raw=true"></p>
+
 
 Decided to build my own website to have a semi-professional journal.
 I keep this repository public to present that is of my doing, and to keep myself more motivated to keep this going. 
