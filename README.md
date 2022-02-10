@@ -1,4 +1,6 @@
-# Hi, i'm Przemek
+<center>
+<img src="https://github.com/furmanp/my-personal-website/blob/master/assets/img/readme_banner.png?raw=true">
+</center>
 
 Decided to build my own website to have a semi-professional journal.
 I keep this repository public to present that is of my doing, and to keep myself more motivated to keep this going. 
