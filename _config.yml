@@ -23,9 +23,9 @@ author:
 
 # URL settings
 url: https://furmanp.com/
-baseurl: https://www.furmanp.com/
+baseurl: 
 permalink: /:title/
-google_analytics: UA-219976400-1
+google_analytics: G-8ZSJPMHMR2
 fb_appid:
 
 # Collection setting
