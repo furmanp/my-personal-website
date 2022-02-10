@@ -49,7 +49,7 @@ Prior you start updating your project you should first update it - `pull`, and w
 The picture below clearly presents the workflow.
 
 <center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2022-01-20-version-control-software/assets/workflow_chart.png?raw=true">
+<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2022-01-20-version-control-software/assets/workflow_chart.png?raw=true" width="600" height="386">
 </center>
 
 If you made changes in the project you are unsure of, you can create a branch that stores your updated version separately from the main structure

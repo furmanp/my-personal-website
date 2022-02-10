@@ -1,61 +1,23 @@
-# Klisé
+# Hi, i'm Przemek
+
+Decided to build my own website to have a semi-professional journal.
+I keep this repository public to present that is of my doing, and to keep myself more motivated to keep this going. 
+This website is a fork from publicly available theme described in a section below + ruby based static html page generator.
+
+## Klisé
 
 Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
+Shout-out to <a href="https://github.com/piharpi/" rel="noopener">piharpi </a> for creating the theme. <br>
+Demo available here: <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
 
-## Features
+## Structure
 
-- [x] Light & Dark Mode support :waxing_crescent_moon:
-- [x] Customizable (using `.scss`)
-- [x] Responsive (desktop, tab and mobile)
-- [x] Mobile First Design
-- [x] SEO Optimized
-- [x] Images of post Organized ([`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles))
-- [x] Generate Sitemap ([`jekyll-sitemap`](https://github.com/jekyll/jekyll-sitemap))
-- [x] RSS Feed ([`jekyll-feed`](https://github.com/jekyll/jekyll-feed))
-- [x] Syntax Highlighter ([`rouge`](https://github.com/rouge-ruby/rouge))
-- [x] Next & Previous Post
-- [x] Comment layout, enable in frontmatter if you wish
-- [x] Google analytics
-- [x] HTML Minify ([`jekyll-compress-html`](https://github.com/penibelst/jekyll-compress-html))
-- [x] W3C **Validated**
-- [x] Lighthouse and PageSpeed **Passed**
+Website is build using open source static html page generator written in ruby `Jekyll` available <a href="https://jekyllrb.com/" target="_blank" rel="noopener">here</a>. <br>
+Hosted on GitHub in `this repository` and deployed using <a href="https://netlify.com/" target="_blank" rel="noopener">netlify</a>. <br>
 
-![Lighthouse Result](./lighthouse.png)
+## Contribution
 
-## Backlogs
+If you come across any errors I have not noticed I will be more than happy if you let me know.
 
-- [ ] Intergrated with PhotoSwipe.
-- [ ] Add schema.org meta information.
-- [ ] Transform class selector to BEM metodology.
-
-## Installation
-
-Run local server:
-
-```bash
-$ git clone https://github.com/piharpi/jekyll-klise.git
-$ cd jekyll-klise
-$ bundle install
-$ bundle exec jekyll serve
-```
-
-Navigate to `localhost:4000`. You're Welcome, Fork and be Stargazer.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/piharpi/jekyll-klise) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/piharpi/jekyll-klise) [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=javascript-0000-jopapa#create/Microsoft.StaticApp)
-
-## Limitation
-
-- Since [`jekyll-postfiles`](https://github.com/nhoizey/jekyll-postfiles#compatibility) plugin isn't supported by github pages, this cause will make your site problems, path broken or post images won't show up, you can host alternatively using likes [netlify.com](https://netlify.com), [vercel.com](https://vercel.com), [azure.com](https://docs.microsoft.com/azure/static-web-apps/publish-jekyll) or [surge.sh](https://surge.sh) services, which support 3rd party.
-
-## Contributing
-
-If you see any typos or formatting errors in a post, or want to helping reduce backlogs or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!, please read [contributing](./CONTRIBUTING.md) before PR.
-
-Yeaaa feel free to open a pull request.
-## Support
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W7MJ4X) [![saweria.co](./assets/img/saweria-button.png)](https://saweria.co/piharpi)
 ## License
-
-This project is open source and available under the [MIT License](LICENSE).
+This repository is a fork of open source project available under the MIT License, thus same terms apply.
