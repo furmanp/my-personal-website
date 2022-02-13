@@ -54,7 +54,7 @@ to be public unless you are using paid GitHub plan.
 
 To set it up, head to settings of the repository you want to publish, and select pages on the left-hand sight of the screen.
 <center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2022-02-15-how-to-document-vba/assets/gh_settings.png?raw=true">
+<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2022-02-15-how-to-document-vba/assets/gh_pages.png?raw=true">
 </center><br>
 
 Next, you need to choose which branch you want the pages to connect to, and a directory where your `index.html` file is located. 
