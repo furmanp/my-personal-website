@@ -25,7 +25,7 @@ or you can find any other available. I personally use  available <a href="https:
 because its overall design was more appealing to me, but there are plenty of options to choose from.
 
 <center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2022-02-15-how-to-document-vba/assets/mkdocs.png?raw=true" width="341" height="572">
+<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2022-02-15-how-to-document-vba/assets/mkdocs.png?raw=true" width="572" height="341">
 </center>
 
 Once you are done with that, and you have created a new project, navigate in the terminal into the main directory where `mkdocs.yml` is located and type in command line `mkdocs serve`, 
@@ -61,7 +61,7 @@ Next, you need to choose which branch you want the pages to connect to, and a di
 If you leave the latter empty it will by default assume that ``root`` is the main directory. Click `Save` when done. 
     
 <center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2022-02-15-how-to-document-vba/assets/gh_pages.png?raw=true">
+<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2022-02-15-how-to-document-vba/assets/gh_settings.png?raw=true">
 </center>
 <br>
 
