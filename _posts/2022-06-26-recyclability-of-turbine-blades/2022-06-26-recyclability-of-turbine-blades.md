@@ -5,8 +5,6 @@ date:   2022-06-26 00:00:00 +0000
 categories: general
 tag: [composites, sustainability, wind energy]
 ---
-# Sustainability of composite wind turbines.
-
 Wind energy has been present in the market for decades and is being perceived as a green source of energy. 
 They do generate energy with low CO2 emissions compared to fossil fuels, however, materials used to build blades and recyclability 
 of those blades are still a hot topic in the wind industry. In 2017 there were over 341 000 working wind turbines in the world, 
