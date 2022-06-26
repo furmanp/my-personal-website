@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "development of prototype element using vacuum bag only technology."
-date:   2022-03-20 00:00:00 +0000
+title:  "Sustainability of composite wind turbines."
+date:   2022-06-26 00:00:00 +0000
 categories: general
 tag: [composites, sustainability, wind energy]
 ---
