@@ -8,9 +8,20 @@ comments: false
 <center>link to more concise & <code><b>.pdf</b></code> format of my resume at the bottom of the page. </center>
 
 # experience
+### Temporary Works Design <a href="https://www.twd.nl/" target="_blank" rel="noopener">@website</a> <a href="https://www.linkedin.com/company/temporary-works-design/" target="_blank" rel="noopener">@LinkedIn</a><br>
+**Software Engineer** <br>
+*Oct 2022 – present. Rotterdam, The Netherlands <br>*
+Software engineer primarily focused on automating the design processes inside the company, but also building web based applications
+for external clients. 
+I spent the majority of 2023 on development a Deck Layout Configurator app. Web based solution to upload, display, and combine 
+dwg files inside the web browser. Application is using Autodesk Platform Services Viewer as a main engine. 
+Demo of the app can be viewed <a href="https://www.mot.twd.nl/" target="_blank" rel="noopener">@here</a>.
+
+The stack that I am working with is:
+JavaScript, TypeScript, Node.js, VB.NET, Python
 ### Pontis Engineering <a href="https://www.pontis-engineering.com/" target="_blank" rel="noopener">@website</a> <a href="https://www.linkedin.com/company/pontis-engineering/" target="_blank" rel="noopener">@LinkedIn</a><br>
 **Composite Design Engineer** <br>
-*Jan 2020 – present. Amsterdam, The Netherlands <br>*
+*Jan 2020 – Sept 2022. Amsterdam, The Netherlands <br>*
 
 Employed for a position of composite design engineer, but nicely tuning in wherever needed. Most of my tasks involve development
 of early stage of the project including Finite Element Method analysis, CAD design both parts and tooling. Building prototypes 

@@ -11,14 +11,14 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Przemyslaw Furman # author name
+  name: Przemek Furman # author name
   bio: Mechanical engineer focused on composite materials, using programming to broaden his skills and increase day to day working efficiency. <br>
     Check out my socials here <a href="https://github.com/furmanp" target="_blank" rel="noopener">@github</a> or <a href="https://www.linkedin.com/in/przemyslawfurman/" target="_blank" rel="noopener">@linkedin</a>.
   username: furmanp
   github: furmanp
   twitter: twitter_username # twitter username
   facebook: facebook_username # facebook username
-  email: przemyslaw.furman@yahoo.com
+  email: furmanp@proton.me
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
