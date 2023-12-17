@@ -35,7 +35,7 @@ This will open up a new tab in your browser with an empty notebook prompting you
 Your browser should look as follows:
 
 <center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2024-12-17-jupyter-notebooks/assets/empty-notebook.png?raw=true" width="640" height="248">
+<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2023-12-16-jupyter-notebooks/assets/empty-notebook.png" width="2502" height="704">
 </center>
 
 # Notebook Interface
@@ -56,7 +56,7 @@ The combination of Python and Markdown cells enables users to create well-format
 are not proficient in programming. A simple example is demonstrated below: 
 
 <center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2024-12-17-jupyter-notebooks/assets/example-notebook.png?raw=true" width="640" height="248">
+<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2023-12-16-jupyter-notebooks/assets/example-notebook.png" width="1223" height="298">
 </center>
 
 Additionally, a function I personally found incredibly convenient, particularly in the early stages of coding, is the flexibility in executing cells.
@@ -92,6 +92,6 @@ engineering or data science and individuals, like myself, who have found VBA to 
 laying a solid foundation for a transition to writing standalone applications in a full-blown IDE in the future.
 
 # Useful resources
-Jupyter project: <a href="https://jupyter.org/" target="_blank" rel="noopener">jupyter.org</a>.
-Quick start quide: <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html" target="_blank" rel="noopener">jupyter docs</a>.
-Notebooks tutorial: <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/" target="_blank" rel="noopener">Dataquest Beginner's tutorial</a>.
+Jupyter project: <a href="https://jupyter.org/" target="_blank" rel="noopener">jupyter.org</a>. <br>
+Quick start quide: <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html" target="_blank" rel="noopener">jupyter docs</a>. <br>
+Notebooks tutorial: <a href="https://www.dataquest.io/blog/jupyter-notebook-tutorial/" target="_blank" rel="noopener">Dataquest Beginner's tutorial</a>. <br>
