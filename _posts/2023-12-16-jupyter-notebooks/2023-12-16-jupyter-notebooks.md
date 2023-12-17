@@ -35,7 +35,7 @@ This will open up a new tab in your browser with an empty notebook prompting you
 Your browser should look as follows:
 
 <center>
-<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2023-12-16-jupyter-notebooks/assets/empty-notebook.png" width="2502" height="704">
+<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2023-12-16-jupyter-notebooks/assets/empty-notebook.png">
 </center>
 
 # Notebook Interface
@@ -56,7 +56,7 @@ The combination of Python and Markdown cells enables users to create well-format
 are not proficient in programming. A simple example is demonstrated below: 
 
 <center>
-<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2023-12-16-jupyter-notebooks/assets/example-notebook.png" width="1223" height="298">
+<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2023-12-16-jupyter-notebooks/assets/example-notebook.png">
 </center>
 
 Additionally, a function I personally found incredibly convenient, particularly in the early stages of coding, is the flexibility in executing cells.
