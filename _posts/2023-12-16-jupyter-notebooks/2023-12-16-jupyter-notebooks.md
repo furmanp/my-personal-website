@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jupyter Notebooks vs Excel."
+title:  "Jupyter Notebooks vs Excel VBE."
 date:   2023-12-16 00:00:00 +0000
 categories: general
 tag: [engineering, Python, software]
@@ -19,6 +19,16 @@ Next, I came across <a href="https://jupyter.org/" target="_blank" rel="noopener
 that revolves around the development of the Jupyter Notebooks. Web-based application that allows users to create and share documents combining live code, 
 equations, plots, and regular text. Paired with Python, it is presented to be the perfect starting point to step away from Excel based VBA and still
 work on engineering automation. 
+
+Jupyter Notebooks offer a significant advantage over Excel programming environment, with being language agnostic, 
+allowing users to choose technology of their preference.
+Unlike Excel, which relies on VBA (Visual Basic for Applications), which despite being 
+pleasant to start with, is not the most popular choice for developers nowadays.
+It also supports data visualizations, images, gifs and LaTeX equations. 
+Although I am primarily focused on using Python as a programming language, it is worth noting that notebooks support over 40 programming languages to code with.
+It allows user to choose suitable technology depending on the purpose of the project and seamless integration with modern services, APIs, etc.
+Additionally, Jupyter's support for version control mechanisms surpasses the capabilities of VBA, which by default is not supported and 
+requires elaborate setup and third party extensions to be fully functional.
 
 # Jupyter Notebooks
 To begin, the installation of Jupyter Notebook on your local machine is a prerequisite, following the installation of <a href="https://www.Python.org/" target="_blank" rel="noopener">Python</a> 
