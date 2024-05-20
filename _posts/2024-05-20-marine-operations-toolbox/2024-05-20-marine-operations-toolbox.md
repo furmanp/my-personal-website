@@ -18,7 +18,7 @@ operations. I want here to focus primarily the Deck Layout app,
 as I was involved with the most. 
 
 <center>
-<img src="https://github.com/furmanp/my-personal-website/blob/master/_posts/2024-05-21-marine-operations-toolbox/assets/MOT.png?raw=true">
+<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2024-05-20-marine-operations-toolbox/assets/MOT.png"?raw=true">
 </center>
 
 # motivation 
@@ -96,6 +96,5 @@ Additionally, there is no need for advanced AutoCAD skills or a license, as the 
 I am quite happy with the product, especially considering the feedback we had received and I hope we will continue 
 further development.
 
-
 <center>
-<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2024-05-21-marine-operations-toolbox/assets/layout-app.png"</center>
+<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2024-05-20-marine-operations-toolbox/assets/layout-app.png"</center>
