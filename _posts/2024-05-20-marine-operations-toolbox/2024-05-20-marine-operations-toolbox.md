@@ -17,9 +17,10 @@ Currently, the toolbox includes five applications Deck Layout, Bollard Pull, Spr
 operations. I want here to focus primarily the Deck Layout app, 
 as I was involved with the most. 
 
+<br>
 <center>
-<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2024-05-20-marine-operations-toolbox/assets/MOT.png"?raw=true">
-</center>
+<img src="https://raw.githubusercontent.com/furmanp/my-personal-website/master/_posts/2024-05-20-marine-operations-toolbox/assets/MOT.png">
+</center><br>
 
 # motivation 
 
