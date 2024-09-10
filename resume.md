@@ -5,20 +5,43 @@ layout: page
 excerpt: Robotics graduate, currently focused in composites. Trying to improve efficiency using a code. Set up this website to document and share some findings.
 comments: false
 ---
-<center>link to more concise & <code><b>.pdf</b></code> format of my resume at the bottom of the page. </center>
+<center><b><a href="https://github.com/furmanp/my-personal-website/raw/master/assets/resume_furmanp.pdf">dowload my CV here</a></b></center>
 
 # experience
+### Transformers Group <a href="https://www.wearetransformers.nl/" target="_blank" rel="noopener">@website</a> <a href="https://www.linkedin.com/company/transformersgroup/" target="_blank" rel="noopener">@LinkedIn</a><br>
+Develop and deploy AI-powered solutions to improve customer services and build end-to-end web applications. 
+Integrate locally deployed AI models, trained on client's data, to optimize decision-making processes.
+
+
+Key Responsibilities:
+
+- Architect and implement full-stack applications with AI-driven insights.
+- Collaborate with cross-functional teams to train, deploy, and maintain AI models.
+- Optimize backend systems for seamless integration of AI with customer-facing portals.
+- Align requirements with clients, perform trainings and provide support for new products.
+
+Tech Stack: TypeScript, Node.js, Python, Django, Kubernetes, Airflow
+
+
 ### Temporary Works Design <a href="https://www.twd.nl/" target="_blank" rel="noopener">@website</a> <a href="https://www.linkedin.com/company/temporary-works-design/" target="_blank" rel="noopener">@LinkedIn</a><br>
 **Software Engineer** <br>
-*Oct 2022 – present. Rotterdam, The Netherlands <br>*
-Software engineer primarily focused on automating the design processes inside the company, but also building web based applications
-for external clients. 
-I spent the majority of 2023 on development a Deck Layout Configurator app. Web based solution to upload, display, and combine 
-dwg files inside the web browser. Application is using Autodesk Platform Services Viewer as a main engine. 
-Demo of the app can be viewed <a href="https://www.mot.twd.nl/" target="_blank" rel="noopener">@here</a>.
+*Oct 2022 – August 2024. Rotterdam, The Netherlands <br>*
+Led automation of internal design processes while developing web-based applications for external clients. 
+Focused on delivering custom software solutions to optimize workflows and enhance user experience.
 
-The stack that I am working with is:
-JavaScript, TypeScript, Node.js, VB.NET, Python
+Key Projects:
+
+- Developed a Deck Layout Configurator application, allowing users to upload, display, and combine DWG files in the browser. Integrated Autodesk Platform Services Viewer as the core engine for rendering complex CAD drawings.
+- Build centralized API that served a purpose of Single Source of Truth for polling Enginering Data and also provided functional services. The main goal of the project was to highly reduce bundle size by building serverless applications, whereas computing-heavy functionality would be provided by the API.
+- Entirely refactored Cable Pull Analysis app to React based highly performant application, using serverless architecture.
+
+Project Demo: <a href="https://www.mot.twd.nl/" target="_blank" rel="noopener">@Marine Operations Toolbox</a>.
+Projects Landing Page: <a href="https://twd.nl/marine-operations-toolbox/" target="_blank" rel="noopener">@Marine Operations Toolbox Landing Page</a>.
+
+
+Tech Stack: JavaScript, TypeScript, Node.js, VB.NET, Python, Docker
+
+
 ### Pontis Engineering <a href="https://www.pontis-engineering.com/" target="_blank" rel="noopener">@website</a> <a href="https://www.linkedin.com/company/pontis-engineering/" target="_blank" rel="noopener">@LinkedIn</a><br>
 **Composite Design Engineer** <br>
 *Jan 2020 – Sept 2022. Amsterdam, The Netherlands <br>*
@@ -128,4 +151,3 @@ The tournament gathered over 1000 participants from an entire country with sever
 visitors and public media, taking place in the main hall of WUT. 
 <br>
 <br>
-<center><b><a href="https://github.com/furmanp/my-personal-website/raw/master/assets/resume_furmanp.pdf">dowload my CV here</a></b></center>
