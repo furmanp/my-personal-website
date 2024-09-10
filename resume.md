@@ -35,7 +35,7 @@ Key Projects:
 - Build centralized API that served a purpose of Single Source of Truth for polling Enginering Data and also provided functional services. The main goal of the project was to highly reduce bundle size by building serverless applications, whereas computing-heavy functionality would be provided by the API.
 - Entirely refactored Cable Pull Analysis app to React based highly performant application, using serverless architecture.
 
-Project Demo: <a href="https://www.mot.twd.nl/" target="_blank" rel="noopener">@Marine Operations Toolbox</a>.
+Project Demo: <a href="https://www.mot.twd.nl/" target="_blank" rel="noopener">@Marine Operations Toolbox</a>.<br>
 Projects Landing Page: <a href="https://twd.nl/marine-operations-toolbox/" target="_blank" rel="noopener">@Marine Operations Toolbox Landing Page</a>.
 
 
