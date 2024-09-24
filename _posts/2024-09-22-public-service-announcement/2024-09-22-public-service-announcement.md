@@ -33,5 +33,5 @@ Automating even parts of this process would lead to significant time savings and
 
 Given my experience and passion for automation, I’ve decided to take the next step in my career and establish my own sole proprietorship. 
 My goal is to offer automation solutions to companies, particularly in industries where manual processes are still the norm but could benefit greatly from the efficiency and accuracy that modern technology can provide.
-If you feel like I could help you, do not hesitate and send me a <a href="mailto:przemek@furmanp.com">@mail</a><br>.
+If you feel like I could help you, do not hesitate and send me a <a href="mailto:przemek@furmanp.com">@mail</a>.
 I'd be more than happy to discuss the details of your problem.
