@@ -19,8 +19,8 @@ accomplish this.
 
 I had two primary requirements:
 
-	1.	Keep my activity consistently up to date.
-	2.	Automate the process to avoid manual effort.
+- Keep my activity consistently up to date.
+- Automate the process to avoid manual effort.
 
 # solution
 
@@ -29,11 +29,11 @@ I had two primary requirements:
 To start, I focused on developing a manual process. Fortunately, both GitLab and GitHub provide extensive APIs with
 thorough documentation, which simplified the development process. Here’s the approach I took:
 
-	1.	Retrieve GitLab User ID: Identify the user whose activity will be imported.
-	2.	Fetch User Contributions: Gather all contributions (commits, comments, pull requests) from the projects the user is involved in.
-	3.	Extract Commits: For each project, retrieve the user’s commits.
-	4.	Recreate Commit Activity: Mirror the commit activity in a new GitHub repository.
-	5.	Publish to GitHub: Push the recreated commits to a GitHub repository.
+- Retrieve GitLab User ID: Identify the user whose activity will be imported.
+- Fetch User Contributions: Gather all contributions (commits, comments, pull requests) from the projects the user is involved in.
+- Extract Commits: For each project, retrieve the user’s commits.
+- Recreate Commit Activity: Mirror the commit activity in a new GitHub repository.
+- Publish to GitHub: Push the recreated commits to a GitHub repository.
 
 Each commit contains the essential information—message, SHA (hash), author, and timestamp—allowing me to replicate the
 activity chart on GitHub accurately. However, one key challenge I encountered was preventing duplicate commits. Since
@@ -51,8 +51,8 @@ periodically fetch and push the imported commits to the GitHub repository withou
 
 To achieve this, I needed to:
 
-    1.	Set Up a Remote Repository: Point my tool to the correct GitHub repository where the activity would be mirrored.
-    2.	Use GitHub Personal Access Token: Authenticate the push operation using a personal access token (PAT) to allow the script to push updates to the repository’s worktree.
+- Set Up a Remote Repository: Point my tool to the correct GitHub repository where the activity would be mirrored.
+- Use GitHub Personal Access Token: Authenticate the push operation using a personal access token (PAT) to allow the script to push updates to the repository’s worktree.
 
 With these changes in place, the tool now automatically updates my GitHub profile with the activity from GitLab,
 ensuring that my contributions stay up to date without requiring manual effort.
@@ -66,7 +66,7 @@ workflow runs daily (or at any defined interval), fetches the latest contributio
 GitHub profile without any manual intervention.
 
 I’m pleased that this simple tool has completely taken a simple task off my mind. Maybe in the future,
-I’ll expand it to support other platforms as well. Also, feel free to contribute or create an issue if you like.
+I’ll expand it to support other platforms as well. Also, feel free to contribute or create an issue if you like. <br>
 For anyone interested in the tool, you can find it
 here: <a href="https://github.com/furmanp/gitlab-activity-importer" target="_blank" rel="noopener">link to
 repository.</a>
