@@ -2,7 +2,7 @@
 layout: post
 title: "why have a website if social media covers it all."
 date: 2022-01-01 00:00:00 +0000
-categories: general
+categories: [general]
 tag: 
 ---
 

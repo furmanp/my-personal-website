@@ -2,7 +2,7 @@
 layout: post
 title: "why you should code, regardless the background."
 date: 2022-01-10 00:00:00 +0000
-categories: general
+categories: [general]
 tag: [ visual basic ]
 ---
 

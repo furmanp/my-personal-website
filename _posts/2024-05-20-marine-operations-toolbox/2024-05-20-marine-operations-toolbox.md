@@ -2,7 +2,7 @@
 layout: post
 title: "Marine Operations Toolbox."
 date: 2024-05-20 00:00:00 +0000
-categories: general
+categories: [general]
 tag: [ engineering, web, software ]
 ---
 

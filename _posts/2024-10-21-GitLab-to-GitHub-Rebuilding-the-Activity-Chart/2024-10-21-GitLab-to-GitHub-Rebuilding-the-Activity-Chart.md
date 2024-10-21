@@ -2,7 +2,7 @@
 layout: post
 title: "GitLab to Github: Rebuild Your Activity Chart Effortlessly"
 date: 2024-10-21 21:00:00 +0000
-categories: general
+categories: [general]
 tag: [ web, software, go ]
 ---
 

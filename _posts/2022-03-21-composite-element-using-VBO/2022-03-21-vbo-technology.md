@@ -2,7 +2,7 @@
 layout: post
 title: "development of prototype element using vacuum bag only technology."
 date: 2022-03-20 00:00:00 +0000
-categories: general
+categories: [general]
 tag: [ composites, prototyping, vacuum bag only, prepreg ]
 ---
 

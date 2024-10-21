@@ -2,7 +2,7 @@
 layout: post
 title: "how to document your visual basic project."
 date: 2022-02-13 00:00:00 +0000
-categories: general
+categories: [general]
 tag: [ visual basic, documentation ]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "is visual basic a dead programming language?"
 date: 2022-01-20 00:00:00 +0000
-categories: general
+categories: [general]
 tag: [ visual basic ]
 ---
 

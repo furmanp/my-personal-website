@@ -2,7 +2,7 @@
 layout: post
 title: "Sustainability of composite wind turbines."
 date: 2022-06-26 00:00:00 +0000
-categories: general
+categories: [general]
 tag: [ composites, sustainability, wind energy ]
 ---
 

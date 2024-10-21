@@ -2,7 +2,7 @@
 layout: post
 title: "Public Service Announcement."
 date: 2024-09-24 00:00:00 +0000
-categories: general
+categories: [general]
 tag: [ web, software ]
 ---
 

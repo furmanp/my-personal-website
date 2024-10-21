@@ -2,7 +2,7 @@
 layout: post
 title: "Jupyter Notebooks vs Excel VBE."
 date: 2023-12-16 00:00:00 +0000
-categories: general
+categories: [general]
 tag: [ engineering, Python, software ]
 ---
 
